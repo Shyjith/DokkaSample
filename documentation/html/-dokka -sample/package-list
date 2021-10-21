@@ -1,0 +1,36 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.aashtech.myapplication.ui.gallery////PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.gallery/index.html
+$dokka.location:com.aashtech.myapplication.ui.gallery/GalleryFragment///PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.gallery/-gallery-fragment/index.html
+$dokka.location:com.aashtech.myapplication.ui.gallery/GalleryFragment/GalleryFragment/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.gallery/-gallery-fragment/-gallery-fragment.html
+$dokka.location:com.aashtech.myapplication.ui.gallery/GalleryFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.gallery/-gallery-fragment/on-create-view.html
+$dokka.location:com.aashtech.myapplication.ui.gallery/GalleryFragment/onDestroyView/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.gallery/-gallery-fragment/on-destroy-view.html
+$dokka.location:com.aashtech.myapplication.ui.gallery/GalleryViewModel///PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.gallery/-gallery-view-model/index.html
+$dokka.location:com.aashtech.myapplication.ui.gallery/GalleryViewModel/GalleryViewModel/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.gallery/-gallery-view-model/-gallery-view-model.html
+$dokka.location:com.aashtech.myapplication.ui.gallery/GalleryViewModel/text/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.gallery/-gallery-view-model/text.html
+$dokka.location:com.aashtech.myapplication.ui.home////PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.home/index.html
+$dokka.location:com.aashtech.myapplication.ui.home/HomeFragment///PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.home/-home-fragment/index.html
+$dokka.location:com.aashtech.myapplication.ui.home/HomeFragment/HomeFragment/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.home/-home-fragment/-home-fragment.html
+$dokka.location:com.aashtech.myapplication.ui.home/HomeFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.home/-home-fragment/on-create-view.html
+$dokka.location:com.aashtech.myapplication.ui.home/HomeFragment/onDestroyView/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.home/-home-fragment/on-destroy-view.html
+$dokka.location:com.aashtech.myapplication.ui.home/HomeViewModel///PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.home/-home-view-model/index.html
+$dokka.location:com.aashtech.myapplication.ui.home/HomeViewModel/HomeViewModel/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.home/-home-view-model/-home-view-model.html
+$dokka.location:com.aashtech.myapplication.ui.home/HomeViewModel/text/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.home/-home-view-model/text.html
+$dokka.location:com.aashtech.myapplication.ui.slideshow////PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.slideshow/index.html
+$dokka.location:com.aashtech.myapplication.ui.slideshow/SlideshowFragment///PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.slideshow/-slideshow-fragment/index.html
+$dokka.location:com.aashtech.myapplication.ui.slideshow/SlideshowFragment/SlideshowFragment/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.slideshow/-slideshow-fragment/-slideshow-fragment.html
+$dokka.location:com.aashtech.myapplication.ui.slideshow/SlideshowFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.slideshow/-slideshow-fragment/on-create-view.html
+$dokka.location:com.aashtech.myapplication.ui.slideshow/SlideshowFragment/onDestroyView/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.slideshow/-slideshow-fragment/on-destroy-view.html
+$dokka.location:com.aashtech.myapplication.ui.slideshow/SlideshowViewModel///PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.slideshow/-slideshow-view-model/index.html
+$dokka.location:com.aashtech.myapplication.ui.slideshow/SlideshowViewModel/SlideshowViewModel/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.slideshow/-slideshow-view-model/-slideshow-view-model.html
+$dokka.location:com.aashtech.myapplication.ui.slideshow/SlideshowViewModel/text/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication.ui.slideshow/-slideshow-view-model/text.html
+$dokka.location:com.aashtech.myapplication////PointingToDeclaration/-dokka -sample/com.aashtech.myapplication/index.html
+$dokka.location:com.aashtech.myapplication/MainActivity///PointingToDeclaration/-dokka -sample/com.aashtech.myapplication/-main-activity/index.html
+$dokka.location:com.aashtech.myapplication/MainActivity/MainActivity/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication/-main-activity/-main-activity.html
+$dokka.location:com.aashtech.myapplication/MainActivity/onCreateOptionsMenu/#android.view.Menu/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication/-main-activity/on-create-options-menu.html
+$dokka.location:com.aashtech.myapplication/MainActivity/onSupportNavigateUp/#/PointingToDeclaration/-dokka -sample/com.aashtech.myapplication/-main-activity/on-support-navigate-up.html
+com.aashtech.myapplication
+com.aashtech.myapplication.ui.gallery
+com.aashtech.myapplication.ui.home
+com.aashtech.myapplication.ui.slideshow
+
